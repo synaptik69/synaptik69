@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]! 
+# 👋 Hey, I'm Ryan Christian Antonio! 
 
 🚀 **Blockchain & AI Developer | Open-Source Enthusiast | Tech Innovator**  
 💡 Passionate about **Smart Contracts, DeFi, AI-driven Blockchain Apps, and Open Source Contributions**  
@@ -6,9 +6,8 @@
 ---
 
 ## 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-christian-antonio-53a2a7154/)  
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/synaptik69)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
 
 ---
@@ -46,8 +45,8 @@
 
 ## 📈 **GitHub Stats**
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=synaptik69&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=synaptik69&theme=radical" />
 </p>
 
 ---
@@ -58,7 +57,7 @@
 - **[Project Name](https://github.com/yourusername/projectname)** - Another great project description.  
 - **[Project Name](https://github.com/yourusername/projectname)** - One more interesting project!  
 
-📌 *Want to see more?* → [Check out my repositories](https://github.com/yourusername?tab=repositories)  
+📌 *Want to see more?* → [Check out my repositories](https://github.com/synaptik69?tab=repositories)  
 
 ---
 
@@ -71,7 +70,7 @@
 
 ## 💬 **Let's Collaborate!**
 If you're into **blockchain, DeFi, AI, or open-source**, let's work on something awesome together!  
-📩 **Reach out to me via [LinkedIn](https://linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle)!**  
+📩 **Reach out to me via [LinkedIn](https://linkedin.com/in/ryan-christian-antonio-53a2a7154/)!**  
 
 ---
 
