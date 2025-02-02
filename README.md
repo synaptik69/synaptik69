@@ -98,9 +98,9 @@
 
 ## 🚀 **Projects & Open Source Contributions**
 🌟 Here are some of my featured projects:  
-- **[Project Name](https://github.com/yourusername/projectname)** - Short description of what it does.  
-- **[Project Name](https://github.com/yourusername/projectname)** - Another great project description.  
-- **[Project Name](https://github.com/yourusername/projectname)** - One more interesting project!  
+- **[Analyze Solana Wallet](https://www.aswa-sol.io/)** - Enter any Solana wallet address to get detailed AI-powered analytics, transaction history, and performance metrics. Powered by advanced on-chain analysis. 
+- **[Tradexpro Exchange](https://tradexpro.org/)** - Tradexpro Exchange is a complete crypto coins exchange platform developed with Laravel. 
+- **[Raybot](https://www.raybot.app/)** - Get instant alerts for all wallet activities on the Solana, Tron, Ethereum, Base, Bsc, Polygon blockchains. 
 
 📌 *Want to see more?* → [Check out my repositories](https://github.com/synaptik69?tab=repositories)  
 
