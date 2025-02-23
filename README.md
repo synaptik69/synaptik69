@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rotsen! 
+# 👋 Hey, I'm Ryan! 
 
 🚀 **Blockchain & AI Developer | Open-Source Enthusiast | Tech Innovator**  
 💡 Passionate about **Smart Contracts, DeFi, AI-driven Blockchain Apps, and Open Source Contributions**  
