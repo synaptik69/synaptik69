@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Ryan! 
+# 👋 Hey, I'm Rotsen! 
 
 🚀 **Blockchain & AI Developer | Open-Source Enthusiast | Tech Innovator**  
 💡 Passionate about **Smart Contracts, DeFi, AI-driven Blockchain Apps, and Open Source Contributions**  
@@ -6,7 +6,7 @@
 ---
 
 ## 🌐 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-christian-antonio-53a2a7154/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rotsen-merecido-6688a91a5/)  
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/synaptik69)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)  
 
