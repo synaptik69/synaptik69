@@ -73,10 +73,15 @@ A blockchain monitoring and notification platform that delivers real-time wallet
 
 ## GitHub Statistics
 
+## CI/CD & Build Status
+
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=synaptik69&show_icons=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synaptik69&layout=compact&hide_border=true&theme=transparent" alt="Top Programming Languages" />
+  <img src="https://img.shields.io/github/actions/workflow/status/synaptik69/REPOSITORY_NAME/ci.yml?style=flat-square&label=CI%2FCD" alt="CI/CD Status" />
+  <img src="https://img.shields.io/github/last-commit/synaptik69/REPOSITORY_NAME?style=flat-square&label=Last%20Commit" alt="Last Commit" />
+  <img src="https://img.shields.io/github/issues/synaptik69/REPOSITORY_NAME?style=flat-square&label=Issues" alt="Open Issues" />
+  <img src="https://img.shields.io/github/license/synaptik69/REPOSITORY_NAME?style=flat-square&label=License" alt="License" />
 </p>
+
 
 ---
 
