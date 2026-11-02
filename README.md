@@ -71,17 +71,42 @@ A blockchain monitoring and notification platform that delivers real-time wallet
 
 ---
 
+
 ## GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=synaptik69&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%" />
+</picture>
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=synaptik69&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" />
-</p>
+### Contribution History by Year
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synaptik69&layout=compact&hide_border=true&theme=transparent" alt="Most Used Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
+  <img src="./assets/lifetime.light.svg" alt="GitHub Contributions Across All Years" width="100%" />
+</picture>
+
+### Contribution Breakdown
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition.dark.svg" />
+  <img src="./assets/composition.light.svg" alt="Yearly Contribution Breakdown" width="100%" />
+</picture>
+
+### Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" alt="GitHub Contribution Activity and Streaks" width="100%" />
+</picture>
+
+### Most Used Languages
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" alt="Most Used Programming Languages" width="100%" />
+</picture>
+
 
 
 ---
