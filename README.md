@@ -1,5 +1,4 @@
 
-# David Wu
 ### Senior Software Engineer | AI & Blockchain Engineer
 
 Building scalable software, intelligent applications, and decentralized systems.
